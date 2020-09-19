@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Files",
+        "repositoryURL": "https://github.com/JohnSundell/Files",
+        "state": {
+          "branch": null,
+          "revision": "22fe84797d499ffca911ccd896b34efaf06a50b9",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "Stopwatch",
+        "repositoryURL": "https://github.com/compote-platform/Stopwatch",
+        "state": {
+          "branch": null,
+          "revision": "c9a16983b75718adb8efa1104a00f0db0bdb71ab",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
